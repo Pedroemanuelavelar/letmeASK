@@ -1,6 +1,6 @@
 # letmeask
 <h2 align="center">🚧 Em desenvolvimento 🚧</h2><br><br>
-<img src="./.github/Página%20inicial.png" alt="" /><br><br>
+<img src="./.github/Página%20inicial.png" alt="" />
 
 <h2>⚙️Tecs usadas</h2>
 <ul>
