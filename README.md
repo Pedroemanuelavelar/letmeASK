@@ -1,2 +1,2 @@
-# letmeASK
-Aplicação desenvolvida na edição especial da NLW (Next Level Week) Together, durante uma semana de evento
+# letmeask
+<h2 align="center">🚧 Em desenvolvimento 🚧</h2>
